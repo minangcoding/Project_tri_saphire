@@ -14,35 +14,29 @@
     
 </head>
 <body>
-    <nav class="navbar navbar-expand-sm bg-light">
-        <div class="container-fluid">
-            <ul class="navbar-nav">
-                <li class="nav-item">
-                    <a class="nav-link" href="#">About Us</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Recycle</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Shop</a>
-                </li>
-            </ul>
-            <nav class="navbar navbar-expand-sm bg-light justify-content-center">
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Link 1</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Link 2</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Link 3</a>
-                    </li>
-                </ul>
-            </nav>
-            
-        </div>
-    </nav>
+<nav class="navbar navbar-expand-lg navbar-white bg-white">
+    <div class="container-fluid">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a href="#" class="navbar-brand">About us</a>
+        </li>
+        <li class="nav-item">
+          <a href="#" class="navbar-brand">Recycle</a>
+        </li>
+        <li class="nav-item">
+          <a href="#" class="navbar-brand">Shop</a>
+        </li>
+      </ul><!--nav -->
+
+      <div>
+        <img src="../pages/img/slide/tri_logo.jpg" class="idx">
+      </div>
+      <div>
+        <img src="../pages/img/slide/keranjang.png" class="krj">
+        <img src="../pages/img/slide/account.png" class="krj">
+      </div>
+    </div>
+  </nav>
     
 
 </body>
