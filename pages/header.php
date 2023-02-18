@@ -29,11 +29,11 @@
       </ul><!--nav -->
 
       <div>
-        <img src="../pages/img/slide/tri_logo.jpg" class="idx">
+        <img src="pages/img/slide/tri_logo.jpg" class="idx">
       </div>
       <div>
-        <img src="../pages/img/slide/keranjang.png" class="krj">
-        <img src="../pages/img/slide/account.png" class="krj">
+        <img src="pages/img/slide/keranjang.png" class="krj">
+        <img src="pages/img/slide/account.png" class="krj">
       </div>
     </div>
   </nav>
