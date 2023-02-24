@@ -72,7 +72,6 @@ function slideshow($koneksi)
     
     <div class="container-fluid">
         <h2 align="center"></h2>
-        <br />
         <div id="dynamic_slide_show" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
                 <?php echo slide_indikator($koneksi); ?>

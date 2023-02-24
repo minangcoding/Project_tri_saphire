@@ -51,9 +51,11 @@ include('database/config.php');
   <!-- Banner-->
   <?php include('pages/slidebanner.php');?>
   <!-- Banner-->
+  <br><br><br><br><br><br>
    <!-- Tampilan awal-->
    <?php include('pages/tampilan_awal.php');?>
   <!-- tampilan awal-->
+  
    <!-- footer-->
    <?php include('pages/footer.php');?>
   <!-- footer-->

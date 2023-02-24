@@ -17,26 +17,27 @@
         <article class="row">
             <img class="col-lg-6" src="pages/img/pamela1.png" alt="pamella" width="50%">
             <div class="col-lg-6 cardComida">
+                <br><br><br><br><br><br><br><br>
                 <h2><span class="titulo"></span></h2>
-                <p><span class="descibe">Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum delectus quisquam quas eius quidem tempora laborum eum animi dicta officiis blanditiis deleniti velit, quos quod perspiciatis nisi quo fugiat consequuntur.</span></p>
-                <a href="#" class="btn btn-primary">SEE MORE</a>
+                <center><p><span class="descibe">Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum delectus quisquam quas eius quidem tempora laborum eum animi dicta officiis blanditiis deleniti velit, quos quod perspiciatis nisi quo fugiat consequuntur.
+                <br><br>
+                <a href="#" class="btn btn-primary">SEE MORE</a></center>
             </div>
 
         </article>
-
-        <div class="card-group">
-            <div class="card">
-                <img src="pages/img/pamela1.png" alt="">
-            </div>
-            <div class="card">
-                <img src="pages/img/pamela.png" alt="">
-            </div>
-            <div class="card">
-                <img src="pages/img/pamela1.png" alt="">
-            </div>
-        </div>
-
-    
+        <br><br><br><br><br><br>
+        <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-bs-interval="1000">
+    <center><img src="pages/img/pamela.png" class="bwh"></center>
+      <div class="carousel-caption d-none d-md-block">
+        <h5>First slide label</h5>
+        <p>Some representative placeholder content for the first slide.</p>
+      </div>
+    </div>
+  </div>
+  
+</div>
 
     </section>
 
