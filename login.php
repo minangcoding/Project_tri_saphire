@@ -22,7 +22,7 @@
 </head>
 <body>
 	<div id="login-form">
-		<img src="gambar_login.jpg" alt="gambar login" />
+		<img src="pages/img/tri_logo.jpg" alt="gambar login" />
 		<form method="post">
 			<label for="username">Username:</label>
 			<input type="text" id="username" name="username" />

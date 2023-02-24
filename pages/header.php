@@ -9,7 +9,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
     
     <!-- css/style.css-->
-    <link rel="stylesheet" href="../pages/css/style.css">
+    <link rel="stylesheet" href="pages/css/style.css">
     <!-- css/style.css-->
     
 </head>
@@ -29,7 +29,7 @@
       </ul><!--nav -->
 
       <div>
-        <img src="pages/img/slide/tri_logo.jpg" class="log">
+        <img src="pages/img/tri_logo.jpg" class="log">
       </div>
     </div>
   </nav>
